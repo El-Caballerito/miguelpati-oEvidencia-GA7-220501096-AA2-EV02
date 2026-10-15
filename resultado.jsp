@@ -8,6 +8,7 @@
         body { font-family: Arial, sans-serif; background-color: #e8f5e9; padding: 50px; text-align: center; }
         .tarjeta-exito { background: white; padding: 30px; border-radius: 8px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-top: 5px solid #2e7d32; }
         h2 { color: #2e7d32; }
+
         p { font-size: 16px; color: #333; margin: 10px 0; text-align: left; }
         .resaltado { font-weight: bold; color: #7B1FA2; }
         a { display: inline-block; margin-top: 20px; color: #7B1FA2; text-decoration: none; font-weight: bold; }
