@@ -27,7 +27,6 @@
             <option value="Almuerzo - Entrada">Regreso de Almuerzo</option>
             <option value="Salida">Salida Final</option>
         </select>
-
         <label for="coordenadas">Coordenadas GPS:</label>
         <input type="text" id="coordenadas" name="coordenadas" value="6.2442,-75.5812" readonly>
         <button type="submit">Confirmar Registro</button>
