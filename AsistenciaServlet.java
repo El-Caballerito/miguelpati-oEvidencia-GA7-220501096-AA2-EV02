@@ -15,7 +15,6 @@ public class AsistenciaServlet extends HttpServlet {
         response.getWriter().println("<h3>[OK] Servidor Central de Asistencia Activo</h3>");
     }
     
-
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String empleadoId = request.getParameter("empleadoId");
